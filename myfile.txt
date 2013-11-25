@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 line1A
+=======
+line1B
+>>>>>>> b2
 line2X
 line3
 line4
